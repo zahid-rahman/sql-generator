@@ -1,3 +1,3 @@
-sql generator package
+# sql generator package
 
-... build with javascript
+Build with vanila js
